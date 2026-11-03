@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
+        <item>
+            <title>VoiceScribe 0.3.2</title>
+            <sparkle:version>68</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <pubDate>Tue, 03 Nov 2026 14:26:30 +0000</pubDate>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h3>Added</h3>
+<ul>
+<li>Auto-updates via Sparkle (stable channel): automatic background checks and update checks from status bar and Settings.</li>
+<li>What's New panel highlighting notch island, hands-free recording lock, customization, Mac keycaps, and self-updating.</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/pranaym20/voicescribe-releases/releases/download/v0.3.2/VoiceScribe-0.3.2.dmg" length="15299476" type="application/octet-stream" sparkle:edSignature="p7L9smEGqMscJ1CQeNI1mPJrvvyxCd/96SltEPhN6S1QAj7tb0zA6hRdYtNPnyy4glj64/SME/siakv3qhOdDA==" />
+        </item>
     <title>VoiceScribe</title>
     <link>https://raw.githubusercontent.com/pranaym20/voicescribe-releases/main/appcast.xml</link>
   </channel>
